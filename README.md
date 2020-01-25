@@ -14,7 +14,7 @@ https://itnext.io/boosting-your-kubectl-productivity-b348f7c25712
 ## Remove Zombie Namespaces
 https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.1/troubleshoot/ns_terminating.html
 
-## Install ko
+## Install golang
 ```
 sudo apt-get update
 
