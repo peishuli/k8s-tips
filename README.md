@@ -1,6 +1,6 @@
 # k8s tips
 
-## Clean up evected pods
+## Clean up evicted pods
 ```
 kubectl get pods | grep Evicted | awk '{print $1}' | xargs kubectl delete pod
 ```
